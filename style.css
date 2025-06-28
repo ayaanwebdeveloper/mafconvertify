@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+.logo{
+    width:40%;
+    margin-left:20px;
+}
 .navbar-brand{
     font-family: cursive;
     color: blue;
